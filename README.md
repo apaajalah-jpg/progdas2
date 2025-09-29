@@ -1,2 +1,4 @@
 # progdas2
-tugas tls progdas2 yohana novena-tarvos
+Nama: Yohana Novena Anggraini
+Kelompok: Tarvos
+Deskripsi: Tugas TLS Progdas2 CPP
